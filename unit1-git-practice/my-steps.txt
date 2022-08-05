@@ -1,0 +1,106 @@
+### Step 2A
+/c/Users/Dominic
+
+### Step 2B
+cd /c/Users/Dominic/Desktop/
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+/c/Users/Dominic/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+
+### Step 2H
+/c/Users/Dominic
+
+### Step 2I
+'3D Objects'/             MicrosoftEdgeBackups/                                                                         'Saved Games'/
+ AppData/                 Music/                                                                                         Searches/
+'Application Data'@      'My Documents'@                                                                                 SendTo@
+ Contacts/                NTUSER.DAT                                                                                    'Start Menu'@
+ Cookies@                 NTUSER.DAT{c677834f-92b6-11eb-94d9-a85e45e7f102}.TM.blf                                        Templates@
+'Creative Cloud Files'/   NTUSER.DAT{c677834f-92b6-11eb-94d9-a85e45e7f102}.TMContainer00000000000000000001.regtrans-ms   Videos/
+ Desktop/                 NTUSER.DAT{c677834f-92b6-11eb-94d9-a85e45e7f102}.TMContainer00000000000000000002.regtrans-ms   ansel/
+ Documents/               NetHood@                                                                                       curseforge/
+ Downloads/               OneDrive/                                                                                      ntuser.dat.LOG1
+ Favorites/               Pictures/                                                                                      ntuser.dat.LOG2
+ Links/                   PrintHood@                                                                                     ntuser.ini
+'Local Settings'@         Recent@
+
+
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd -
+cd unit1-git-practice
+
+
+
+### Step 3A
+mkdir veggies
+mkdir meats
+mkdir desserts
+### Step 3B
+ mv desserts sweets
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+cd veggies
+touch carrot.txt pea.txt
+### Step 3F
+cd ..
+cd sweets
+touch cookie.txt
+### Step 3G
+mv cookie.txt donut.txt
+
+### Step 3H
+cd ..
+touch thing.txt
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins
+
+### Step 3K
+cp thing.txt crab.txt
+mv crab.txt proteins
+mv crab.txt meats
+### Step 3L
+rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+mkdir drinks
+rm -r drinks
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
